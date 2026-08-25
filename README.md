@@ -126,7 +126,7 @@ file.txt
 
 The AWS EC2 Volumes page shows the newly created `My Volume` EBS volume with a size of 1 GiB.
 
-<img width="1907" height="1076" alt="Screenshot 2026-08-20 114751" src="https://github.com/user-attachments/assets/72cb9585-a239-4911-8c20-fae2ed577f37" />
+<img width="1873" height="837" alt="Screenshot 2026-08-03 140253" src="https://github.com/user-attachments/assets/bb8ea9c3-15b9-4826-8129-995af9cf5194" />
 
 <img width="1262" height="646" alt="Screenshot 2026-08-20 135512" src="https://github.com/user-attachments/assets/0ddc15ec-d575-4766-9e23-f2399acddead" />
 
